@@ -1,12 +1,16 @@
 body{
  font-size: 13px;
+ width: 100%;
+ margin: 0;
+ height: 700px;
 }
 
 /*body*/
 .whole-body{
-    height: 500px; 
+    height: 670px;
     background-color: rgb(46, 240, 247);
     font-weight: bolder;
+    padding-bottom: 10px;
 }
 
 /* For all p tags */
