@@ -1,0 +1,94 @@
+body{
+ font-size: 13px;
+}
+
+/*body*/
+.whole-body{
+    height: 500px; 
+    background-color: rgb(46, 240, 247);
+    font-weight: bolder;
+}
+
+/* For all p tags */
+p{
+    display: block;
+    color: brown;
+    font-family: Montserrat;;
+}
+h1{
+    height: 20px;
+    font-family: Montserrat;
+}  
+
+.top-right{
+    margin-left: 74%;
+    font-family: Montserrat;
+}
+
+.box-1{
+    float: left;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-right: 45px;
+    font-family: Montserrat;
+}
+
+.box-2{
+    float: left;
+    height: 400px;
+    margin-right: 90px;
+    margin-left: 34px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border-left:5px solid yellow;
+    border-right:5px solid yellow;
+    font-family: Montserrat;
+}
+.box-3{
+    float: left;
+    height: 400px;  
+    margin-left: -20px;
+    margin-top: 20px;
+    border-right: 5px solid yellow;
+    border-left: 5px solid yellow ;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Montserrat;
+}
+
+.box-4{
+    float: left;
+    height: 400px;
+    margin-left: 45px;
+    margin-right: 10px;
+    padding-left: 35px;
+    margin-top: 20px;
+    font-family: Montserrat;
+
+}
+
+.p1{
+    color: rgb(214, 34, 34);
+    text-align: center;
+    height: 20px;
+    padding-top: 13px;
+    
+}
+.lists{
+    color: blue;
+    margin-left: -40px;
+}
+
+.footer{
+    background-color:black;
+    margin-top: -18px;
+    height: 50px;
+    
+    font-family: Montserrat;
+}
+
